@@ -1,0 +1,4 @@
+# 项目排除路径
+/lyq-video-api/target/
+/lyq-video-dao/target/
+/lyq-video-service/target/
